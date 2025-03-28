@@ -44,11 +44,8 @@ src/
 
 ![sch mgt teach](https://github.com/user-attachments/assets/6b55cf61-ff64-41d7-b72a-7fbaf0fc34d8)
 ![sch mgt reg](https://github.com/user-attachments/assets/1fdb6bcb-6555-4156-b0fe-9a28aebac364)
-
-
-
-
-
+![sch mgt features2](https://github.com/user-attachments/assets/befc6f44-55c9-43b9-a353-d1482ff96239)
+![sch mgt features1](https://github.com/user-attachments/assets/df97c267-f846-4e00-9545-34bdc553f81d)
 
 
 🛠 Development Guidelines
