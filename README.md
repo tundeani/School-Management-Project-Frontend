@@ -42,6 +42,9 @@ src/
 📸 Screenshots
 (Add screenshots of your UI here)
 
+![sch mgt teach](https://github.com/user-attachments/assets/6b55cf61-ff64-41d7-b72a-7fbaf0fc34d8)
+![sch mgt reg](https://github.com/user-attachments/assets/1fdb6bcb-6555-4156-b0fe-9a28aebac364)
+
 
 
 
